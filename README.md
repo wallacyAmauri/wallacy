@@ -36,7 +36,3 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-<div>
-  <a href="https://www.instagram.com/wallacy_amauri/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/wallacy-amauri-b8400225b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
