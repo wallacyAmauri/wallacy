@@ -23,7 +23,6 @@
     <img aling="center" alt="wallacy-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img aling="rigth" alt="wallacy-gif" src="https://media.tenor.com/INWZc-XWx2AAAAAC/skeleton-berserk.gif" />
 </div>
-##
  <h1 align="center">Redes Sociais</h1>
     <a href = "gmail: wallacya087@gmail.com">
       <img width="30" src="gmail.svg">
