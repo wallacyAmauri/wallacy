@@ -7,12 +7,12 @@
 - ⚡ Fato engraçado: eu virei programador quando fiz robótica no ensino fundamental, me colocaram  como programador na função da equipe e foi dai que começou a paixão
 <div>
   <a href="https://github.com/wallacyAmauri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallacyAmauri&show_icons=true&theme=tokyonight&include_all_comits=true"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacyAmauri&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wallacyAmauri&show_icons=true&theme=tokyonight&include_all_comits=true"  />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacyAmauri&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="220" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img aling="center" alt="wallacy-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img aling="center" alt="wallacy-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
