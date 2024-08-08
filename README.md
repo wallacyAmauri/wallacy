@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando com front e back-end
-- 🌱 Estou estudando PHP, HTML,CSS,Jquery,bootstrap e Java
+- 🌱 Estou estudando PHP,JS,HTML,CSS,Jquery,bootstrap e Java
 - 📫 email pra contato: wallacya087@gmail.com
 - ⚡ Fato engraçado: eu virei programador quando fiz robótica no ensino fundamental, me colocaram  como programador na função da equipe e foi dai que começou a paixão
 <div>
